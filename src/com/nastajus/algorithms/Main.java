@@ -1,4 +1,4 @@
-package com.nastajus;
+package com.nastajus.algorithms;
 
 public class Main {
 

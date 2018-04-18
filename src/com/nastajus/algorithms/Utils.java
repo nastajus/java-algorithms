@@ -1,4 +1,4 @@
-package com.nastajus;
+package com.nastajus.algorithms;
 
 public class Utils {
     public static String PrintArray(int[] array){
